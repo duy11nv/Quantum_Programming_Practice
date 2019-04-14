@@ -1,4 +1,4 @@
-# random bit generator circuit in Qis kit
+# random bit generator circuit in Qiskit
 from qiskit import QuantumRegister, ClassicalRegister, QuantumCircuit, execute
 
 qreg = QuantumRegister(1)
