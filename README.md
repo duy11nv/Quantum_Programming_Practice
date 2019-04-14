@@ -1,1 +1,1 @@
-# Quantum_Programming_Pracice
+# Quantum_Programming_Practice
